@@ -1,9 +1,28 @@
-### Hi there, I'm Mathew 👋
+## Hi there, I'm Mathew 👋
 
-I maintain the following projects you might know: 
-[`Airflow Helm Chart`](https://github.com/airflow-helm/charts/tree/main/charts/airflow),
-[`Kubeflow`](https://github.com/kubeflow/kubeflow)
+- I am an __Independant Consulant__ who specialises in __MLOps__, especially open-source Data and ML platforms.
+- I am currently based in the US, but I'm originally from New Zealand, and was previously living in Australia.
 
-I am an __Independant Consulant__ who works with companies around the world on their Data and ML platforms.
+## If you want to work with me, please reach out!
 
-If you have a compelling project, please [reach out](https://www.linkedin.com/in/mathewwicks/)!
+- <a href="https://www.linkedin.com/in/mathewwicks/" target="blank">My LinkedIn <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="Mathew Wicks LinkedIn" height="30" width="30" /></a>
+
+## Projects I maintain which you may know:
+
+- `Airflow Helm Chart (User Community)` 
+   - a very popular way to deploy Apache Airflow on Kubernetes
+   - [GitHub Repo](https://github.com/airflow-helm/charts/)
+- `Kubeflow`
+   - the defacto machine learning toolkit for Kubernetes
+   - [GitHub Repo](https://github.com/kubeflow/kubeflow)
+   - [Website](https://kubeflow.org)
+- `deployKF` 
+   - an open-source helper for deploying MLOps tools on Kubernetes, with support for Kubeflow Components and more
+   - [GitHub Repo](https://github.com/deployKF/deployKF)
+   - [Website](https://deploykf.org)
+
+---
+
+<a href="https://github.com/thesuperzapper">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thesuperzapper&count_private=true&show_icons=true" />
+</a>
