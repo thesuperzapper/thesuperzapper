@@ -17,7 +17,7 @@
    - [GitHub Repo](https://github.com/kubeflow/kubeflow)
    - [Website](https://www.kubeflow.org/)
 - `deployKF` 
-   - an open-source helper for deploying MLOps tools on Kubernetes, with support for Kubeflow Components and more
+   - the best way to deploy Kubeflow and other MLOps tools as a cohesive ML Platform on Kubernetes
    - [GitHub Repo](https://github.com/deployKF/deployKF)
    - [Website](https://www.deploykf.org/)
 
