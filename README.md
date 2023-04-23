@@ -14,7 +14,7 @@
 - `Kubeflow` - the defacto machine learning toolkit for Kubernetes
    - [GitHub Repo](https://github.com/kubeflow/kubeflow)
    - [Website](https://www.kubeflow.org/)
-- `deployKF` - the best way to deploy Kubeflow and other MLOps tools on Kubernetes, as a cohesive ML Platform
+- `deployKF` - the best way to deploy KF (Kubeflow) and other MLOps tools on Kubernetes to create custom, open, and cohesive ML Platforms
    - [GitHub Repo](https://github.com/deployKF/deployKF)
    - [Website](https://www.deploykf.org/)
 
