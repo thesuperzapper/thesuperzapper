@@ -14,7 +14,7 @@
 - `Kubeflow` - the machine learning toolkit for Kubernetes
    - [GitHub Repo](https://github.com/kubeflow/kubeflow)
    - [Website](https://www.kubeflow.org/)
-- `deployKF` - the best way to build reliable ML Platforms on Kubernetes.
+- `deployKF` - the best way to build reliable ML Platforms on Kubernetes
    - [GitHub Repo](https://github.com/deployKF/deployKF)
    - [Website](https://www.deploykf.org/)
 
