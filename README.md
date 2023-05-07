@@ -9,12 +9,12 @@
 
 ## Projects I maintain which you may know:
 
-- `Airflow Helm Chart (User Community)` - a very popular way to deploy Apache Airflow on Kubernetes
+- `Airflow Helm Chart (User Community)` - the best way to deploy Apache Airflow on Kubernetes
    - [GitHub Repo](https://github.com/airflow-helm/charts/)
-- `Kubeflow` - the defacto machine learning toolkit for Kubernetes
+- `Kubeflow` - the machine learning toolkit for Kubernetes
    - [GitHub Repo](https://github.com/kubeflow/kubeflow)
    - [Website](https://www.kubeflow.org/)
-- `deployKF` - the best way to deploy KF (Kubeflow) and other MLOps tools on Kubernetes to create custom, open, and cohesive ML Platforms
+- `deployKF` - the best way to build reliable ML Platforms on Kubernetes.
    - [GitHub Repo](https://github.com/deployKF/deployKF)
    - [Website](https://www.deploykf.org/)
 
