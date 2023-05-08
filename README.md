@@ -7,6 +7,9 @@
 
 - <a href="https://www.linkedin.com/in/mathewwicks/" target="blank">My LinkedIn <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="Mathew Wicks LinkedIn" height="30" width="30" /></a>
 
+- <a href="https://www.aranui.solutions/" target="blank">Aranui Solutions LLC (My Consulting Company)</a>
+
+
 ## Projects I maintain which you may know:
 
 - [`Airflow Helm Chart (User Community)`](https://github.com/airflow-helm/charts/) - the best way to deploy Apache Airflow on Kubernetes
