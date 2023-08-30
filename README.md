@@ -9,6 +9,7 @@
 
 - <a href="https://www.aranui.solutions/" target="blank">Aranui Solutions LLC (My Consulting Company)</a>
 
+   - For more info, send a quick email to [`sales@aranui.solutions`](mailto:sales@aranui.solutions?subject=%5BGitHub%5D%20MY_SUBJECT)!
 
 ## Projects I maintain which you may know:
 
