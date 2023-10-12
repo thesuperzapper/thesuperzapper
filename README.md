@@ -15,7 +15,7 @@
 
 - [`Airflow Helm Chart (User Community)`](https://github.com/airflow-helm/charts/) - the best way to deploy Apache Airflow on Kubernetes
 - [`Kubeflow`](https://www.kubeflow.org/) - the machine learning toolkit for Kubernetes
-- [`deployKF`](https://www.deploykf.org/) - the best way to build reliable ML Platforms on Kubernetes
+- [`deployKF`](https://www.deploykf.org/) -  builds world-class ML Platforms on any Kubernetes cluster, within any cloud or environment, in minutes
 
 ---
 
