@@ -13,7 +13,7 @@
 
 ## Projects I maintain which you may know:
 
-- [`deployKF`](https://www.deploykf.org/) -  builds world-class ML Platforms on any Kubernetes cluster, within any cloud or environment, in minutes
+- [`deployKF`](https://www.deploykf.org/) - build world-class Data and Machine Learning Platforms on any Kubernetes cluster, in any cloud or environment
 - [`Airflow Helm Chart`](https://github.com/airflow-helm/charts/) - the best way to deploy Apache Airflow on Kubernetes
 - [`Kubeflow`](https://www.kubeflow.org/) - the machine learning toolkit for Kubernetes
 
